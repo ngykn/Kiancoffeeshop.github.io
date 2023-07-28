@@ -1,0 +1,32 @@
+header{
+    background-color: black;
+    padding: 15px;
+}
+.name{
+    color: antiquewhite;
+    text-align: center;
+    border: 5px solid chocolate;
+    border-radius: 100px;
+    padding: 10px;
+    font-variant: small-caps;
+}
+.discription{
+    color: floralwhite;
+    text-align: center;
+    padding: 0px;
+    font-variant: small-caps;
+}
+body{
+    margin: 0px;
+    background-color: khaki;
+}
+nav{
+    display: flex;
+}
+li a{
+    text-decoration: none;
+    margin: 15px;
+}
+li {
+    list-style: none;
+}
